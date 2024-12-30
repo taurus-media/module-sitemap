@@ -8,7 +8,7 @@
     "magento/module-sitemap": "100.4.*"
   },
   "license": [
-    "Proprietary"
+    "MIT"
   ],
   "autoload": {
     "files": [
